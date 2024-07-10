@@ -1,0 +1,6 @@
+oxygen
+water
+fertile soil 
+toxic gas
+bad atmosphere
+extreme temperatures
